@@ -4,7 +4,7 @@
 
   <h4>:ru: Russia, Saint-Petersburg :ru:</h4>
 
-  <h4>An energetic young man, I consider self-education an integral part of every IT specialist throughout his life.h4/>
+  <h4>An energetic young man, I consider self-education an integral part of every IT specialist throughout his life.<h4/>
 
   <h4>Part of my skills:</h4>
   <p>
