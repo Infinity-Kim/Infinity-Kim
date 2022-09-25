@@ -10,6 +10,7 @@
 - 🌱 In my free time I am a mentor at [RS School] (https://rs.school/)
 - 🎯 I am successfully onboarding new employees
 - ⚙️ I solve infrastructure, architecture and code problems
+- 🏓 Able to independently organize work on a project, decompose tasks, conduct code review, improve their skills and employees
 - 🥊 Energetic and young, I think together with the qualifications, this mixture creates incredible :)
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=Infinity-Kim&show_icons=true)
