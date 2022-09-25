@@ -1,19 +1,19 @@
-  <h2>👋 Hey! Nice to see you.</h2>
+# Hello! I'm frontend developer
 
-  <h4>Welcome to my page!  I'm Valentin, Front-end developer 💻</h4>
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-  <h4>:ru: Russia, Saint-Petersburg :ru:</h4>
+### 👨‍💻 About me
+- 🌱 In my free time I am a mentor at [RS School] (https://rs.school/)
+- 🎯 I am successfully onboarding new employees
+- ⚙️ I solve infrastructure, architecture and code problems
+- 🥊 Energetic and young, I think together with the qualifications, this mixture creates incredible :)
 
-  <h4>An energetic young man, I consider self-education an integral part of every IT specialist throughout his life.<h4/>
+![My stats](https://github-readme-stats.vercel.app/api?username=Infinity-Kim&show_icons=true)
 
-  <h4>Part of my skills:</h4>
-  <p>
-    <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" /> 
-    <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-    <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </p>
 
   
   
