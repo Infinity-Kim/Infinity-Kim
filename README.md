@@ -7,7 +7,6 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### 👨‍💻 About me
-- 🌱 In my free time I am a mentor at [RS School] (https://rs.school/)
 - 🎯 I am successfully onboarding new employees
 - ⚙️ I solve infrastructure, architecture and code problems
 - 🏓 Able to independently organize work on a project, decompose tasks, conduct code review, improve their skills and employees
