@@ -1,19 +1,29 @@
-# Hello! I'm Kim Valentin.
+---
+icon: hand-wave
+cover: https://gitbookio.github.io/onboarding-template-images/header.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+# Welcome
 
-### 👨‍💻 About me
-- 🎯 I am successfully onboarding new employees
-- ⚙️ I solve infrastructure, architecture and code problems
-- 🏓 Able to independently organize work on a project, decompose tasks, conduct code review, improve their skills and employees
-- 🥊 Energetic and young, I think together with the qualifications, this mixture creates incredible :)
+Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
 
-![My stats](https://github-readme-stats.vercel.app/api?username=Infinity-Kim&show_icons=true)
+You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
 
+### Jump right in
 
-  
-  
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
